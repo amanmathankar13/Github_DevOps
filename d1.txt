@@ -1,8 +1,10 @@
-// Story 121
+// Story 122
+
 
 a = 10
 b = 12
 c = a + b
+<<<<<<< Updated upstream
 
 
 // Changes for story 131
@@ -11,3 +13,6 @@ x = 15
 y = 16
 z = x * y
 System.out.println(z);
+=======
+System.out.println(c);
+>>>>>>> Stashed changes
