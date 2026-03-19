@@ -3,3 +3,11 @@
 a = 10
 b = 12
 c = a + b
+
+
+// Changes for story 131
+
+x = 15
+y = 16
+z = x * y
+System.out.println(z);
